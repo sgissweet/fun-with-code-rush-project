@@ -1,5 +1,5 @@
 function go_home() {
-    window.location.href = 'home.html';
+    window.location.href = 'mainpage.html';
 }
 
 function go_purple_cv() {
